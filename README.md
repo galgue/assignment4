@@ -605,6 +605,9 @@ toCSV.to_csv('knn.csv', index=False)
 
 ## Results from the competition:
 
+![png](knn.PNG)
+
+
 ## SVC!
 
 ### like in knn we read the data and make new attributes
@@ -825,3 +828,6 @@ toCSV.to_csv('SVC.csv', index=False)
 ```
 
 ## Results from the competition:
+
+![png](svm.PNG)
+
